@@ -1,0 +1,3 @@
+RoleName%%%RoleType%%%Results
+ManagerTTI%%%C
+RealisticTTI%%%C
